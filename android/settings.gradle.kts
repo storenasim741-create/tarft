@@ -1,6 +1,3 @@
-import java.util.Properties
-import java.io.File
-
 pluginManagement {
     val properties = Properties()
     val localPropertiesFile = File(settingsDir, "local.properties")
